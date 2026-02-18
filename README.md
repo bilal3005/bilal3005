@@ -59,4 +59,4 @@ I'm at the intersection of Machine Learning and Life Sciences.  My work spans de
 
 ## 📫 Let's Connect
 
-[![Gmail](https://img.shields.io/badge/bilal77msy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal77msy@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal77msy@gmail.com)
