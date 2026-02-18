@@ -1,8 +1,8 @@
 # Hi, I'm Bilal 👋🧬
 
-> *Bioinformatics M2 student | ML & AI applied to healthcare, biology & drug discovery*
+> *Bioinformatics student | ML & AI applied to healthcare, biology & drug discovery*
 
-I'm at the intersection of Machine Learning and Life Sciences.  My work spans deep learning model development, genomic data pipelines, and predictive modeling applied to healthcare and drug discovery, with a growing interest in computer vision for medical imaging. I'm drawn to problems where the data is messy, the stakes are high, and a well-tuned model can make a real difference.
+I'm at the intersection of Machine Learning and Life Sciences.  My work spans deep learning model development, genomic data pipelines, and predictive modeling applied to healthcare, Medtech and drug discovery, with a growing interest in computer vision for medical imaging. I'm drawn to problems where the data is messy, the stakes are high, and a well-tuned model can make a real difference.
 
 ---
 
