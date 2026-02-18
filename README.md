@@ -58,7 +58,7 @@ I'm at the intersection of Machine Learning and Life Sciences.  My work spans de
 ![ETL](https://img.shields.io/badge/ETL-2C3E50?style=flat)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2C3E50?style=flat)
 ![Reproducibility](https://img.shields.io/badge/Reproducibility-2C3E50?style=flat)
-![Docker](https://img.shields.io/badge/Docker_(basics)-2496ED?style=flat&logo=docker&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Experiment Tracking](https://img.shields.io/badge/Experiment_Tracking-2C3E50?style=flat)
 
 **Bioinformatics**
@@ -74,7 +74,6 @@ I'm at the intersection of Machine Learning and Life Sciences.  My work spans de
 ![Protein Structure](https://img.shields.io/badge/Protein_Structure-2E8B57?style=flat)
 ![Sequence Modeling](https://img.shields.io/badge/Sequence_Modeling-2E8B57?style=flat)
 ![BLAST](https://img.shields.io/badge/BLAST-2E8B57?style=flat)
-![Clustal Omega](https://img.shields.io/badge/Clustal_Omega-2E8B57?style=flat)
 ![PyMOL](https://img.shields.io/badge/PyMOL-2E8B57?style=flat)
 ![Biopython](https://img.shields.io/badge/Biopython-2E8B57?style=flat)
 
