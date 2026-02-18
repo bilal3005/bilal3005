@@ -43,9 +43,40 @@ I'm at the intersection of Machine Learning and Life Sciences.  My work spans de
 ![ggplot2](https://img.shields.io/badge/ggplot2-1A1A2E?style=flat)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
+**Data Science**
+
+![Feature Engineering](https://img.shields.io/badge/Feature_Engineering-6A0DAD?style=flat)
+![Model Evaluation](https://img.shields.io/badge/Model_Evaluation-6A0DAD?style=flat)
+![Cross-Validation](https://img.shields.io/badge/Cross--Validation-6A0DAD?style=flat)
+![Hyperparameter Tuning](https://img.shields.io/badge/Hyperparameter_Tuning-6A0DAD?style=flat)
+![Pipelines](https://img.shields.io/badge/Pipelines-6A0DAD?style=flat)
+![PCA/UMAP](https://img.shields.io/badge/PCA%2FUMAP-6A0DAD?style=flat)
+![Time Series](https://img.shields.io/badge/Time_Series-6A0DAD?style=flat)
+
+**MLOps / Data**
+
+![ETL](https://img.shields.io/badge/ETL-2C3E50?style=flat)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-2C3E50?style=flat)
+![Reproducibility](https://img.shields.io/badge/Reproducibility-2C3E50?style=flat)
+![Docker](https://img.shields.io/badge/Docker_(basics)-2496ED?style=flat&logo=docker&logoColor=white)
+![Experiment Tracking](https://img.shields.io/badge/Experiment_Tracking-2C3E50?style=flat)
+
 **Bioinformatics**
 
-`RNA-seq` · `scRNA-seq` · `Variant Calling` · `Genome Assembly` · `Differential Expression` · `GO/KEGG Enrichment` · `NGS QC` · `Alignment` · `Protein Structure` · `Sequence Modeling` · `BLAST` · `Clustal Omega` · `PyMOL` · `Biopython`
+![RNA-seq](https://img.shields.io/badge/RNA--seq-2E8B57?style=flat)
+![scRNA-seq](https://img.shields.io/badge/scRNA--seq-2E8B57?style=flat)
+![Variant Calling](https://img.shields.io/badge/Variant_Calling-2E8B57?style=flat)
+![Genome Assembly](https://img.shields.io/badge/Genome_Assembly-2E8B57?style=flat)
+![Differential Expression](https://img.shields.io/badge/Differential_Expression-2E8B57?style=flat)
+![GO/KEGG Enrichment](https://img.shields.io/badge/GO%2FKEGG_Enrichment-2E8B57?style=flat)
+![NGS QC](https://img.shields.io/badge/NGS_QC-2E8B57?style=flat)
+![Alignment](https://img.shields.io/badge/Alignment-2E8B57?style=flat)
+![Protein Structure](https://img.shields.io/badge/Protein_Structure-2E8B57?style=flat)
+![Sequence Modeling](https://img.shields.io/badge/Sequence_Modeling-2E8B57?style=flat)
+![BLAST](https://img.shields.io/badge/BLAST-2E8B57?style=flat)
+![Clustal Omega](https://img.shields.io/badge/Clustal_Omega-2E8B57?style=flat)
+![PyMOL](https://img.shields.io/badge/PyMOL-2E8B57?style=flat)
+![Biopython](https://img.shields.io/badge/Biopython-2E8B57?style=flat)
 
 **Infrastructure**
 
