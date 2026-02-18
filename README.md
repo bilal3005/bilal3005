@@ -9,9 +9,13 @@ I'm at the intersection of Machine Learning and Life Sciences.  My work spans de
 ## 🔬 What I'm Into
 
 **ML & deep learning** — model design, training, fine-tuning, from CNNs to transformers
+
 **Computer vision** — applied to medical imaging and biological image analysis
+
 **Genomics & structural bioinformatics** — sequence modeling, epitope prediction, NGS pipelines
+
 **Drug discovery & precision medicine** — computational target identification, molecular data analysis
+
 **Clean, reproducible scienc**e — modular pipelines, HPC/SLURM, version-controlled experiments
 
 ---
