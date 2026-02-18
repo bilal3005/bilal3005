@@ -45,7 +45,7 @@ I'm at the intersection of Machine Learning and Life Sciences.  My work spans de
 
 **Bioinformatics**
 
-`Biopython` · `BLAST` · `Clustal Omega` · `PyMOL` · `Biopandas` · `Galaxy`
+`RNA-seq` · `scRNA-seq` · `Variant Calling` · `Genome Assembly` · `Differential Expression` · `GO/KEGG Enrichment` · `NGS QC` · `Alignment` · `Protein Structure` · `Sequence Modeling` · `BLAST` · `Clustal Omega` · `PyMOL` · `Biopython`
 
 **Infrastructure**
 
