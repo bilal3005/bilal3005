@@ -1,16 +1,18 @@
-# Hi, I'm Bilal 👋
+# Hi, I'm Bilal 👋🧬
 
-I'm a **Master's student in Bioinformatics**, passionate about applying **Machine Learning and AI** to solve real-world problems in **healthcare, biology, and pharmaceutics**.
+> *Bioinformatics M2 student | ML & AI applied to healthcare, biology & drug discovery*
 
-I believe computational methods hold the key to the next breakthroughs in medicine — from drug discovery to personalized care — and I want to be part of building them.
+I'm at the intersection of Machine Learning and Life Sciences.  My work spans deep learning model development, genomic data pipelines, and predictive modeling applied to healthcare and drug discovery, with a growing interest in computer vision for medical imaging. I'm drawn to problems where the data is messy, the stakes are high, and a well-tuned model can make a real difference.
 
 ---
 
-## 🧬 What I'm about
+## 🔬 What I'm Into
 
-- **AI × Biology** — using deep learning to understand biological systems, model molecular interactions, and predict outcomes that matter clinically
-- **Data-driven science** — turning messy, high-dimensional biological data into actionable insights
-- **Responsible & reproducible research** — clean pipelines, open science, rigorous methodology
+**ML & deep learning** — model design, training, fine-tuning, from CNNs to transformers
+**Computer vision** — applied to medical imaging and biological image analysis
+**Genomics & structural bioinformatics** — sequence modeling, epitope prediction, NGS pipelines
+**Drug discovery & precision medicine** — computational target identification, molecular data analysis
+**Clean, reproducible scienc**e — modular pipelines, HPC/SLURM, version-controlled experiments
 
 ---
 
@@ -18,46 +20,39 @@ I believe computational methods hold the key to the next breakthroughs in medici
 
 **Languages**
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=flat&logo=gnu-bash&logoColor=white)
 
-**Machine Learning & Deep Learning**
+**ML / DL Frameworks**
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 
-**Data & Visualization**
+**Data & Viz**
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C9BE8?style=for-the-badge&logo=python&logoColor=white)
-![ggplot2](https://img.shields.io/badge/ggplot2-FC4E07?style=for-the-badge&logo=r&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![ggplot2](https://img.shields.io/badge/ggplot2-1A1A2E?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
-**Infrastructure & Tools**
+**Bioinformatics**
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![SLURM](https://img.shields.io/badge/SLURM-HPC-2E7D32?style=for-the-badge&logo=superuser&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+`Biopython` · `BLAST` · `Clustal Omega` · `PyMOL` · `Biopandas` · `Galaxy`
 
----
+**Infrastructure**
 
-## 🎯 Interests & Research directions
-
-- Computational drug discovery & molecular modeling
-- Predictive models for clinical and genomic data
-- Environmental & epidemiological data science
-- AI safety and ethics in biomedical applications
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![SLURM](https://img.shields.io/badge/SLURM-HPC-blue?style=flat)
+![Cloud](https://img.shields.io/badge/Cloud_Computing-4285F4?style=flat&logo=googlecloud&logoColor=white)
 
 ---
 
-## 🌍 Languages
 
-🇫🇷 French (native) · 🇬🇧 English (C1)
+## 📫 Let's Connect
+
+[![Gmail](https://img.shields.io/badge/bilal77msy@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bilal77msy@gmail.com)
